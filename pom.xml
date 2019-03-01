@@ -7,7 +7,7 @@
     <groupId>com.wzh</groupId>
     <artifactId>SpringBootDemo_eclipse</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <!--修改打包文件为war，如果需要部署到外部tomcat需放开此配置-->
+    <!--修改打包文件为war，如果需要部署到外部tomcat需放开此配置 test-->
     <!--<packaging>war</packaging>-->
 
     <!-- 编码集 -->
