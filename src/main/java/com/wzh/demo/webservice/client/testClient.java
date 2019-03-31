@@ -3,7 +3,7 @@ package com.wzh.demo.webservice.client;
 import javax.xml.ws.BindingProvider;
 
 /**
- * @desc: 测试连接用客户端test
+ * @desc: 测试连接用客户端
  * @author: wzh
  * @date: 2019年3月31日
  */
