@@ -171,6 +171,13 @@
             <artifactId>hessian</artifactId>
             <version>4.0.38</version>
         </dependency>
+        
+        <!-- CXF -->
+        <dependency>
+	        <groupId>org.apache.cxf</groupId>
+	        <artifactId>cxf-spring-boot-starter-jaxws</artifactId>
+	        <version>3.1.15</version>
+    	</dependency>
 
     </dependencies>
 
